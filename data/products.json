@@ -1041,5 +1041,37 @@
     "longevity": "Media (6 horas)",
     "usage": "Día/Noche",
     "longevityValue": 65
+  },
+  {
+    "id": 33,
+    "name": "Twist",
+    "brand": "AXE",
+    "image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.29884.2x.avif",
+    "images": [
+      "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.29884.2x.avif",
+      "https://fimgs.net/mdimg/perfume-social-cards/es-p_c_29884.jpeg"
+    ],
+    "rating": 3.7,
+    "reviews": 55,
+    "isFavorite": false,
+    "category": "Hombre",
+    "price": 28,
+    "oldPrice": 32,
+    "size": "113ml",
+    "concentration": "Body Spray",
+    "gender": "Masculino",
+    "season": "Primavera/Verano",
+    "profile": "Cítrico, dulce, fresco especiado, amaderado, floral",
+    "notes": [
+      "Lima",
+      "Yuzu",
+      "Nectarina",
+      "Fresia",
+      "Manzana Roja",
+      "Coco"
+    ],
+    "longevity": "Media (5 horas)",
+    "usage": "Día/Noche",
+    "longevityValue": 55
   }
 ]
